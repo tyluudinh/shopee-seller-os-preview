@@ -1,0 +1,23 @@
+{
+  "period_days": 30,
+  "impressions": 420000,
+  "clicks": 5880,
+  "orders": 88,
+  "gmv": 23760000,
+  "ad_spend": 3200000,
+  "ad_orders": 61,
+  "ads_revenue": 16500000,
+  "cancel_rate": 0.041,
+  "late_rate": 0.067,
+  "nfrr": 0.032,
+  "chat_response_rate": 0.63,
+  "rating": 4.55,
+  "review_count": 14,
+  "stockout_skus": 7,
+  "total_skus": 42,
+  "followers": 1240,
+  "repeat_rate": 0.07,
+  "margin_pct": 0.09,
+  "impressions_prev": 512000,
+  "orders_prev": 104
+}
